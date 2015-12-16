@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.paisewali.com/2015/11/life-insurance-policies-types-and-benefits/'
 title: 'Life Insurance policies: Types and benefits'
-datePublished: '2015-12-16T17:59:17.289Z'
-dateModified: '2015-12-16T17:51:23.432Z'
+datePublished: '2015-12-16T18:07:25.569Z'
+dateModified: '2015-12-16T17:59:17.289Z'
 sourcePath: _posts/2015-12-16-life-insurance-policies-types-and-benefits.md
 published: true
 inFeed: true
