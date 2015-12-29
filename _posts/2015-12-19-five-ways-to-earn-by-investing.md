@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.paisewali.com/2014/05/five-ways-to-earn-by-investing/'
 title: Five ways to earn by investing
-datePublished: '2015-12-19T09:20:58.411Z'
-dateModified: '2015-12-19T09:19:48.240Z'
+datePublished: '2015-12-29T08:29:03.947Z'
+dateModified: '2015-12-19T09:20:58.411Z'
 sourcePath: _posts/2015-12-19-five-ways-to-earn-by-investing.md
 published: true
 inFeed: true
