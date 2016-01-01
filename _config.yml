@@ -1,29 +1,41 @@
-name: Paisewali
-favicon: null
-layout_spectrum: 0.75543
-typography_spectrum: 0.9142680545337498
 title: Paisewali
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-51199805-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6928756257984787
+  brandStrength: 0.375
+  rhythmicContrast: 0.9933245298452675
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.375
   lightness: 0.5732341669499874
-  saturation: 0.6928756257984787
-  rhythmicContrast: 0.9933245298452675
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-51199805-1
+  facebook: null
+name: Paisewali
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.297491
+layout_spectrum: 0.75543
